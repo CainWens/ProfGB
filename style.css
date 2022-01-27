@@ -1,0 +1,315 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    width: 100%;
+    height: 75px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo{
+    margin-top: 17px;
+}
+
+.logo img{
+    margin-right: 41px;
+}
+
+.akk{
+    
+    margin: 18px 0 0 25%;
+}
+
+.akk img{
+    margin-right: 41px;
+}
+
+.container{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.slider{
+    height: 764px;
+    background-color: #F1E4E6;
+    display: flex;
+    justify-content: space-between;
+}
+
+.slidertext img{
+    margin: 350px 0;
+    float: left;
+}
+
+.slt{
+    size: 32px;
+    margin: 346px 234px 0 24px;
+}
+
+.slt h1{
+    font-family: Lato;
+    font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 58px;
+}
+
+.slt h3{
+    font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 38px;
+float: left;
+}
+
+.fash{
+    font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 38px;
+color: #F16D7F;
+}
+
+.content{
+    max-width: 1142px;
+    margin: 0 auto;
+}
+
+.for{
+    display: flex;
+}
+
+.forcart{
+    position: relative;
+    width: 360px;
+    height: 260px;
+    margin: 65px 30px 30px 0;
+}
+
+.fortxt h3{
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.fortxt h2{
+    font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+color: #F16D7F;
+}
+
+.wh{
+    position: absolute;
+    top: 44%;
+    left: 26%;
+}
+
+.mh{
+    position: absolute;
+    top: 44%;
+    left: 33%;
+}
+
+.kh{
+    position: absolute;
+    top: 44%;
+    left: 34%;
+}
+
+.women img{
+    filter: brightness(35%);
+}
+
+.men img{
+    filter: brightness(35%);
+}
+
+.kids img{
+    filter: brightness(35%);
+}
+
+.kids {
+    margin-right: 0px;
+}
+
+.acces{
+    position: relative;
+    width: 1142px;
+    height: 180px;
+    margin-bottom: 96px;
+}
+
+.acces img{
+    filter: brightness(40%);
+}
+
+.ach {
+    position: absolute;
+    top: 60px;
+    left: 43%;
+}
+
+.ach h3{
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.ach h2{    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #F16D7F;
+}
+
+.fih{
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+color: #222222;
+}
+
+.fip{
+    font-family: Lato;
+font-style: normal;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+color: #5D5D5D;
+margin-bottom: 48px;
+}
+
+.items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.itemscart{
+    position: relative;
+    background-color: #F8F8F8;
+    width: 360px;
+    height: 582px;
+    margin: 0 30px 30px 0;
+}
+
+.ic1{
+    margin: 0;
+}
+
+.hover{
+    position: absolute;
+    opacity: 0.5;
+    left: 0px;
+}
+
+.price{
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+color: #F16D7F;
+margin-left: 18px;
+}
+
+.itemscart p{
+    font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+color: #5D5D5D;
+margin:0 0 18px 18px;
+}
+
+.hh{
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 16px;
+color: #000000;
+margin: 25px 0 13px 18px;
+}
+
+.AP{
+    margin: 0 0 95px 45%;
+    width: 212px;
+    height: 48px;
+    background-color: #F16D7F;
+    text-align: center;
+    border: none;
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+color: #FFFFFF;
+}
+
+.quality{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    height: 341px;
+    background-color: #222224;
+}
+
+.selqu{
+    text-align: center;
+   width: 360px;
+   height: 134px;
+   margin: 103px 30px 104px 0;
+}
+
+.selqu h1{
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 19.96px;
+line-height: 24px;
+color: #FBFBFB;
+}
+
+.selqu p{
+    font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 13.972px;
+line-height: 17px;
+text-align: center;
+color: #FBFBFB;
+}
+
+.subs {
+    width: 100%;
+    height: 448px;
+        
+    background-image: url(img/subscribe.png);
+}
